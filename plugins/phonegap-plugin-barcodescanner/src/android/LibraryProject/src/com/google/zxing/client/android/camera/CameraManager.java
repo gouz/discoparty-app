@@ -111,6 +111,7 @@ public final class CameraManager {
         parameters = theCamera.getParameters();
         parameters.unflatten(parametersFlattened);
         try {
+          parameters.setZoom(parameters.getMaxZoom());
           theCamera.setParameters(parameters);
           configManager.setDesiredCameraParameters(theCamera, true);
         } catch (RuntimeException re2) {
