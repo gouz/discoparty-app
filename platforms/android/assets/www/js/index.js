@@ -39,7 +39,7 @@ var app = {
     receivedEvent: function(id) {
       cordova.plugins.barcodeScanner.scan(
         function (result) {
-            window.location = "http://discoparty.herokuapp.com/playlist/" + result.text;
+            window.location = "http://discoparty.herokuapp.com/playlists/" + result.text;
         },
         function (error) {
             alert("Scanning failed: " + error);
