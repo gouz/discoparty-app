@@ -35,7 +35,7 @@ com.google.zxing.client.android.CaptureActivity:
     private static final java.lang.String RAW_PARAM
     public static final int HISTORY_REQUEST_CODE
     private android.widget.Button flipButton
-    690:707:private boolean showHelpOnFirstLaunch()
+    692:709:private boolean showHelpOnFirstLaunch()
 com.google.zxing.client.android.Contents:
     public static final java.lang.String URL_KEY
     public static final java.lang.String NOTE_KEY
