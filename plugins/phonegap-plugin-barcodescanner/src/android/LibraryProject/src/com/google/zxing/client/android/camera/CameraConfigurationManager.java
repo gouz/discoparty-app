@@ -127,6 +127,8 @@ final class CameraConfigurationManager {
       Log.w(TAG, "In camera config safe mode -- most settings will not be honored");
     }
 
+
+
     SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(context);
 
     initializeTorch(parameters, prefs, safeMode);
@@ -154,6 +156,7 @@ final class CameraConfigurationManager {
     }
 
     parameters.setPreviewSize(cameraResolution.x, cameraResolution.y);
+    parameters.setZoom(parameters.getMaxZoom());
     camera.setParameters(parameters);
   }
 

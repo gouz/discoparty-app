@@ -28,7 +28,7 @@
       android:layout_height="fill_parent"/>
 
   <LinearLayout android:id="@+id/result_view"
-                android:orientation="vertical"
+                android:orientation="horizontal"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:background="@color/result_view"
