@@ -17,7 +17,9 @@
         Sylvain Gougouzian
     </author>
     <content src="index.html" />
+    <icon src="app-icon-green-2x.png" />
     <access origin="*" />
+    <allow-navigation href="http://discoparty.herokuapp.com/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
 </widget>

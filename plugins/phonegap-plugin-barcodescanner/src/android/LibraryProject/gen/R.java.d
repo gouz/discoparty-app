@@ -57,4 +57,11 @@
 /home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/res/values-ko/strings.xml \
 /home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/res/values-eu/strings.xml \
 /home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/res/values-zh-rCN/strings.xml \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable-hdpi/shopper_icon.png \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable-hdpi/launcher_icon.png \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable/shopper_icon.png \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable/share_via_barcode.png \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable/launcher_icon.png \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable-xhdpi/launcher_icon.png \
+/home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/res/drawable-xxhdpi/launcher_icon.png \
 /home/gouz/work/discoparty-app/plugins/phonegap-plugin-barcodescanner/src/android/LibraryProject/bin/AndroidManifest.xml \
